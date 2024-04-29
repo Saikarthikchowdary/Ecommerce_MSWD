@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
    - Create a `.env` file in the `client` directory and add the necessary environment variables (e.g., API endpoint).
    - Create a `.env` file in the `server` directory and add the necessary environment variables (e.g., MongoDB connection string).
 5. Start the frontend and backend servers:
-   - In the `client` directory, run `npm start`.
-   - In the `server` directory, run `npm start`.
+   - In the `client` directory, run `npm run dev`.
+   - In the `server` directory, run `npm run dev`.
 6. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 ## Contributing
