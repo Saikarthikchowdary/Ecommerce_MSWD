@@ -12,7 +12,7 @@ You can view a live demo of this project [here](https://ecommerce-sdp-saikarthik
 
 - **User Authenticataion**: Users can sign up, log in, and log out securely.
 - **Product Browsing**: Users can browse through a list of available products.
-- **Product Search**: Users can search for specific products.
+- **ChatBot Integrated**: Users can resolve their queries throught chatbot and can also contact coustomer care team through it.
 - **Product Filtering**: Users can filter products based on categories or other attributes.
 - **Product Details**: Users can view detailed information about each product.
 - **Shopping Cart**: Users can add products to their cart and proceed to checkout.
@@ -23,7 +23,7 @@ You can view a live demo of this project [here](https://ecommerce-sdp-saikarthik
 ## Technologies Used
 
 - **Frontend**: React.js, Redux, React Router, Material-UI
-- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 - **Deployment**: Vercel (for frontend), Heroku (for backend)
 
