@@ -4,7 +4,7 @@
 
 This is an E-commerce project developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse products, add them to their cart, and make purchases.
 
-## Demo
+## Demo(Deployment)
 
 You can view a live demo of this project [here](https://ecommerce-sdp-saikarthikchowdarys-projects.vercel.app/).
 
